@@ -17,5 +17,5 @@ Facebook: JoeBobTheCannonFakeUser
 
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
-Place: Columbus
-Email: jeff.wolf2015@gmail.com
+Place: Columbus  
+Email: jeff.wolf2015@gmail.com  
