@@ -1,11 +1,12 @@
 # Great First Timers
 
-Some awesome first timers! Please add your name, bio, website, facebook or/and twitter.
+Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
 ### Example
 
 Name: Joe Bob  
 Bio: I eat people!  
+Place: City of the Joe
 Website: joethecannonball.fakewebsite.com  
 Twitter: JoeBobTheCannonFakeUser  
 Facebook: JoeBobTheCannonFakeUser  
