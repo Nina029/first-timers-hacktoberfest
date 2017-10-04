@@ -13,6 +13,8 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
+[Add yourself here]
+
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
 Place: Columbus
