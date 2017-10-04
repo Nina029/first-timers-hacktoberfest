@@ -4,11 +4,11 @@ Some awesome first timers! Please add your name, bio, website, facebook or/and t
 
 ### Example
 
-Name: Joe Bob
-Bio: I eat people!
-Website: www.joethecannonball.fakewebsite.com
-Twitter: JoeBobTheCannonFakeUser
-Facebook: JoeBobTheCannonFakeUser
+Name: Joe Bob  
+Bio: I eat people!  
+Website: www.joethecannonball.fakewebsite.com  
+Twitter: JoeBobTheCannonFakeUser  
+Facebook: JoeBobTheCannonFakeUser  
 
 ## First timers
 
