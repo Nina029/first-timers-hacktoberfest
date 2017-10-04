@@ -13,3 +13,5 @@ Facebook: JoeBobTheCannonFakeUser
 ## First timers
 
 [Add yourself here]
+
+:computer: with :heart: by :pizza:
