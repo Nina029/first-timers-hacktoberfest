@@ -6,7 +6,7 @@ Some awesome first timers! Please add your name, bio, website, place, facebook o
 
 Name: Joe Bob  
 Bio: I eat people!  
-Place: City of the Joe
+Place: City of the Joe  
 Website: joethecannonball.fakewebsite.com  
 Twitter: JoeBobTheCannonFakeUser  
 Facebook: JoeBobTheCannonFakeUser  
