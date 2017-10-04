@@ -14,4 +14,3 @@ Facebook: JoeBobTheCannonFakeUser
 
 [Add yourself here]
 
-:computer: with :heart: by :bulb:
